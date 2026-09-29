@@ -1,0 +1,21 @@
+Warframe export achievements gotten from:
+https://github.com/calamity-inc/warframe-public-export-plus/blob/senpai/ExportAchievements.json
+
+
+You will need to get your account ID, which is in the form of a 24 character string that is alphanumeric, for example: "12345678abcdefgh12345678"
+
+To get this go to your profile, which should be at: https://www.warframe.com/en/user
+
+
+The exact steps upon opening the page (and being logged in!) are as follows:
+1. Open inspect page
+2. Go to the 'Network' secton of the inspector panel
+3. Reload the page
+4. Find the file called 'user' and click on it to inspect it in detail
+5. Navigate to the 'cookies' portion of the request inspector
+6. There should be many cookies, you can get your account ID from any of the following:
+6A. A cookie named 'gid' has your exact user id in the 'value' field
+6B. A cookie named 'user-info' has your exact user id under the key 'user_id' which is in the 'value' field
+
+7. Run WarframeUserDataViewer.cs
+8. Enter your user id in the text box and press the button!

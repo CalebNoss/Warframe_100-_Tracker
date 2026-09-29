@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "preLaunchTask": "dotnet: build",
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "c:/Users/Caleb/source/repos/Warframe_100%_Tracker",
+      "program": "c:/Users/Caleb/source/repos/Warframe_100%_Tracker/bin/Debug/net9.0-windows/Warframe_100%_Tracker.exe",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5745 @@
+{
+	"Results" : {
+		"Aerial Commander" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/Vip/EidolonVipPilotAgent",
+				"Scans" : 3
+			}
+		},
+		"Akkalak Turret" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonAutoTurretAgent",
+				"Scans" : 20
+			}
+		},
+		"Arid Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Desert/BladeSawman",
+				"Scans" : 20
+			}
+		},
+		"Arid Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Desert/EvisceratorLancer",
+				"Scans" : 5
+			}
+		},
+		"Arid Heavy Gunner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Desert/MinigunBombard",
+				"Scans" : 3
+			}
+		},
+		"Arid Hellion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Desert/JetpackMarine",
+				"Scans" : 5
+			}
+		},
+		"Arid Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Desert/RifleLancer",
+				"Scans" : 20
+			}
+		},
+		"Arid Seeker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Desert/GrineerMarinePistol",
+				"Scans" : 5
+			}
+		},
+		"Arid Trooper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Desert/ShotgunLancer",
+				"Scans" : 10
+			}
+		},
+		"Artificer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SpecialEvents/GrineerArtificer",
+				"Scans" : 3
+			}
+		},
+		"Armored Roller" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/KelaRollingDrone",
+				"Scans" : 10
+			}
+		},
+		"Bailiff" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/GrineerCharger",
+				"Scans" : 3
+			}
+		},
+		"Ballista" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/GrineerFemale",
+				"Scans" : 5
+			}
+		},
+		"Blite Captain" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/AdmiralPoisonAgent",
+				"Scans" : 3
+			}
+		},
+		"Bombard" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/RocketBombard",
+				"Scans" : 3
+			}
+		},
+		"Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/BladeSawman",
+				"Scans" : 20
+			}
+		},
+		"Cannon Battery (Grineer)" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Cannon Battery (Captain Vor)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/VorRework/VorArenaTurret/VorArenaTurretAgent",
+				"Scans" : 5
+			}
+		},
+		"Captain Vor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/CaptainVorBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Carabus" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Commander" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/GrineerMarineLeader",
+				"Scans" : 5
+			}
+		},
+		"Corrupted Vor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/VorTwo/VorTwoBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Councilor Vay Hek" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/Hek/HekDroneStage1Agent",
+				"Scans" : 3
+			}
+		},
+		"Darek Draga" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Water/Grineer/SquidLancerAgent",
+				"Scans" : 20
+			}
+		},
+		"Dargyn" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Grineer/Skiffs/GrineerSpaceMarine",
+				"Scans" : 5
+			}
+		},
+		"Dargyn Pilot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonSkiffPilotAgent",
+				"Scans" : 10
+			}
+		},
+		"Demolisher Bailiff" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Disruption/DisruptionCharger",
+				"Scans" : 3
+			}
+		},
+		"Demolisher Devourer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Disruption/DemoDevourerAgent",
+				"Scans" : 20
+			}
+		},
+		"Demolisher Expired" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Disruption/DemoExpiredAgent",
+				"Scans" : 20
+			}
+		},
+		"Demolisher Heavy Gunner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Disruption/DisruptionMinigunBombard",
+				"Scans" : 3
+			}
+		},
+		"Demolisher Kuva Guardian" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Disruption/DisruptionRoyalGuardAgent",
+				"Scans" : 20
+			}
+		},
+		"Demolisher Nox" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Disruption/DisruptionNoxAgent",
+				"Scans" : 3
+			}
+		},
+		"Disruptor Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/Hek/PropDrones/HekPropCCDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Draga" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Water/Grineer/FrogLancerNavAgent",
+				"Scans" : 20
+			}
+		},
+		"Drahk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/CombatKubrowAgent",
+				"Scans" : 20
+			}
+		},
+		"Drahk Master" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/BeastMaster",
+				"Scans" : 5
+			}
+		},
+		"Dreg" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Grineer/Drones/GrineerSpaceDrone",
+				"Scans" : 10
+			}
+		},
+		"Drekar Ballista" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/GrineerFemaleSniper",
+				"Scans" : 5
+			}
+		},
+		"Drekar Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/BladeSawman",
+				"Scans" : 20
+			}
+		},
+		"Drekar Elite Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/EliteRifleLancer",
+				"Scans" : 5
+			}
+		},
+		"Drekar Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/EvisceratorLancer",
+				"Scans" : 5
+			}
+		},
+		"Drekar Heavy Gunner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/GrineerFemaleHeavy",
+				"Scans" : 3
+			}
+		},
+		"Drekar Hellion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/JetpackMarine",
+				"Scans" : 5
+			}
+		},
+		"Drekar Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/RifleLancer",
+				"Scans" : 20
+			}
+		},
+		"Drekar Manic" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/SeaLabManicGrineer",
+				"Scans" : 3
+			}
+		},
+		"Drekar Manic Bombard" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/SeaLabManicRocketBombard",
+				"Scans" : 3
+			}
+		},
+		"Drekar Scorpion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/GrineerFemaleMachete",
+				"Scans" : 10
+			}
+		},
+		"Drekar Seeker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/GrineerMarinePistol",
+				"Scans" : 5
+			}
+		},
+		"Drekar Trooper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SeaLab/ShotgunLancer",
+				"Scans" : 10
+			}
+		},
+		"Drudge Brazer" : {
+			"General" : {
+				"InternalName" : "Lotus/Types/Enemies/Grineer/AIWeek/GrineerWorkerB",
+				"Scans" : 10
+			}
+		},
+		"Drudge Foreman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/GrineerWorker",
+				"Scans" : 10
+			}
+		},
+		"Drudge Scrapper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/GrineerWorkerC",
+				"Scans" : 10
+			}
+		},
+		"Eidolon Lure" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/VomvalystLure/EidolonVomLureAgent",
+				"Scans" : 20
+			}
+		},
+		"Elite Arid Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Desert/EliteRifleLancer",
+				"Scans" : 5
+			}
+		},
+		"Elite Exo Cutter" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Exo Flak" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Exo Gokstad Crewship" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Exo Outrider" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Exo Ramsled" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Frontier Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Forest/EliteRifleLancer",
+				"Scans" : 5
+			}
+		},
+		"Elite Gyre Cutter" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Gyre Flak" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Gyre Outrider" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Gyre Taktis" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Kosma Cutter" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Kosma Flak" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Kosma Outrider" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Kosma Taktis" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Elite Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/EliteRifleLancer",
+				"Scans" : 5
+			}
+		},
+		"Elite Shield Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/EliteShieldLancer",
+				"Scans" : 3
+			}
+		},
+		"Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/EviseratorLancer",
+				"Scans" : 5
+			}
+		},
+		"Executioner Dhurnam" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/GrineerChampions/GrineerChampionHeavyAgent",
+				"Scans" : 5
+			}
+		},
+		"Executioner Dok Thul" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/GrineerChampions/GrineerChampionHealerAgent",
+				"Scans" : 5
+			}
+		},
+		"Executioner Garesh" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/GrineerChampions/GrineerChampionChargerAgent",
+				"Scans" : 5
+			}
+		},
+		"Executioner Gorth" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/GrineerChampions/GrineerChampionTankAgent",
+				"Scans" : 5
+			}
+		},
+		"Executioner Harkonar" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/GrineerChampions/GrineerChampionSniperAgent",
+				"Scans" : 5
+			}
+		},
+		"Executioner Nok" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/GrineerChampions/GrineerChampionGruntAgent",
+				"Scans" : 5
+			}
+		},
+		"Executioner Reth" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/GrineerChampions/GrineerChampionEngineerAgent",
+				"Scans" : 5
+			}
+		},
+		"Executioner Vay Molta" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/GrineerChampions/GrineerChampionJetpackAgent",
+				"Scans" : 5
+			}
+		},
+		"Executioner Zura" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/GrineerChampions/GrineerChampionBeastmasterAgent",
+				"Scans" : 5
+			}
+		},
+		"Exo Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSCrewBladeAgent",
+				"Scans" : 20
+			}
+		},
+		"Exo Cutter" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Exo Elite Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSCrewEliteRifleAgent",
+				"Scans" : 5
+			}
+		},
+		"Exo Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSCrewEvisceratorAgent",
+				"Scans" : 5
+			}
+		},
+		"Exo Flak" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Exo Gokstad Crewship" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Exo Gokstad Officer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSCaptainHeavyAgent",
+				"Scans" : 3
+			}
+		},
+		"Exo Gokstad Pilot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSPilotAgent",
+				"Scans" : 20
+			}
+		},
+		"Exo Outrider" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Exo Raider" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSBoardingDemoAgent",
+				"Scans" : 5
+			}
+		},
+		"Exo Raider Carver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSBoardingMeleeAgent",
+				"Scans" : 5
+			}
+		},
+		"Exo Raider Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSBoardingShotgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Exo Ramsled" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Exo Roller Sentry" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSCaptainRollerTurretAgent",
+				"Scans" : 20
+			}
+		},
+		"Exo Supressor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/DeepSpace/GrnDSCrewFlameAgent",
+				"Scans" : 5
+			}
+		},
+		"Exo Taktis" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Flameblade" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/BlowtorchSawman",
+				"Scans" : 10
+			}
+		},
+		"Fortress Scanner" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Frontier Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Forest/BladeSawman",
+				"Scans" : 20
+			}
+		},
+		"Frontier Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Forest/EvisceratorLancer",
+				"Scans" : 5
+			}
+		},
+		"Frontier Heavy Gunner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Forest/MinigunBombard",
+				"Scans" : 3
+			}
+		},
+		"Frontier Hellion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Forest/JetpackMarine",
+				"Scans" : 5
+			}
+		},
+		"Frontier Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Forest/RifleLancer",
+				"Scans" : 20
+			}
+		},
+		"Frontier Regulator" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Frontier Seeker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Forest/GrineerMarinePistol",
+				"Scans" : 5
+			}
+		},
+		"Frontier Trooper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Forest/ShotgunLancer",
+				"Scans" : 10
+			}
+		},
+		"Garv" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"General Sargas Ruk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/SargasRuk/SargasRukBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Ghoul Auger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Ghouls/GhoulDrillAgent",
+				"Scans" : 20
+			}
+		},
+		"Ghoul Auger Alpha" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Ghouls/Vip/GhoulDrillVipAgent",
+				"Scans" : 3
+			}
+		},
+		"Ghoul Devourer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Ghouls/GhoulDevourerAgent",
+				"Scans" : 20
+			}
+		},
+		"Ghoul Expired" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Ghouls/GhoulExpiredAgent",
+				"Scans" : 20
+			}
+		},
+		"Ghoul Rictus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Ghouls/GhoulSawmanAgent",
+				"Scans" : 20
+			}
+		},
+		"Ghoul Rictus Alpha" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Ghouls/Vip/GhoulSawmanVipAgent",
+				"Scans" : 3
+			}
+		},
+		"Ghoul Target" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGhoulAgent",
+				"Scans" : 3
+			}
+		},
+		"Glacik Commander" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/Avatars/AdmiralIceAvatar",
+				"Scans" : 3
+			}
+		},
+		"Grineer Manic" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/ManicGrineer",
+				"Scans" : 3
+			}
+		},
+		"Grineer Power Carrier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/CarrierRifleLancer",
+				"Scans" : 20
+			}
+		},
+		"Grineer Queens" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 0
+			}
+		},
+		"Grineer Target" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Grineer Warden" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Guardsman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/GrineerMeleeStaffAgent",
+				"Scans" : 10
+			}
+		},
+		"Gyre Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/Saturn/GrnSaturnCrewBladeAgent",
+				"Scans" : 20
+			}
+		},
+		"Gyre Cutter" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Gyre Elite Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/Saturn/GrnSaturnCrewEliteRifleAgent",
+				"Scans" : 5
+			}
+		},
+		"Gyre Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/Saturn/GrnSaturnBoardingShotgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Gyre Flak" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Gyre Gokstad Crewship" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Gyre Gokstad Officer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/Saturn/GrnSaturnCaptainHeavyAgent",
+				"Scans" : 3
+			}
+		},
+		"Gyre Gokstad Pilot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/Saturn/GrnSaturnPilotAgent",
+				"Scans" : 20
+			}
+		},
+		"Gyre Outrider" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Gyre Raider" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnBoardingDemoAgent",
+				"Scans" : 5
+			}
+		},
+		"Gyre Raider Carver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnBoardingMeleeAgent",
+				"Scans" : 5
+			}
+		},
+		"Gyre Raider Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnBoardingShotgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Gyre Ramsled" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Gyre Roller Sentry" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/Saturn/GrnSaturnCaptainRollerTurretAgent",
+				"Scans" : 20
+			}
+		},
+		"Gyre Supressor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/Saturn/GrnSaturnCrewFlameAgent",
+				"Scans" : 5
+			}
+		},
+		"Gyre Taktis" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Heavy Gunner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/MinigunBombard",
+				"Scans" : 3
+			}
+		},
+		"Hellion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/JetpackMarine",
+				"Scans" : 5
+			}
+		},
+		"Hellion Dargyn" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Grineer/Skiffs/MissileSkiff",
+				"Scans" : 5
+			}
+		},
+		"Hellion Power Carrier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/CarrierJetpack",
+				"Scans" : 5
+			}
+		},
+		"Hyekka" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/CombatCatbrowAgent",
+				"Scans" : 20
+			}
+		},
+		"Hyekka Master" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/CatMaster",
+				"Scans" : 5
+			}
+		},
+		"Instigator Ghoul" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetGrineerGhoulShip",
+				"Scans" : 5
+			}
+		},
+		"Janus Captain Vor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/VorRework/CaptainVorBossReworkHardModeAgent",
+				"Scans" : 3
+			}
+		},
+		"Kela De Thaym" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Kosma Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnCrewBladeAgent",
+				"Scans" : 20
+			}
+		},
+		"Kosma Cutter" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Kosma Elite Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnCrewEliteRifleAgent",
+				"Scans" : 5
+			}
+		},
+		"Kosma Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnCrewEvisceratorAgent",
+				"Scans" : 5
+			}
+		},
+		"Kosma Flak" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Kosma Gokstad Crewship" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Kosma Gokstad Officer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnCaptainHeavyAgent",
+				"Scans" : 3
+			}
+		},
+		"Kosma Gokstad Pilot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnPilotAgent",
+				"Scans" : 20
+			}
+		},
+		"Kosma Outrider" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Kosma Raider" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnBoardingDemoAgent",
+				"Scans" : 5
+			}
+		},
+		"Kosma Raider Carver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnBoardingMeleeAgent",
+				"Scans" : 5
+			}
+		},
+		"Kosma Raider Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnBoardingShotgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Kosma Ramsled" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Kosma Roller Sentry" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnCaptainRollerTurretAgent",
+				"Scans" : 20
+			}
+		},
+		"Kosma Supressor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/GrnCrewFlameAgent",
+				"Scans" : 5
+			}
+		},
+		"Kosma Taktis" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Kuva" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Kuva Bailiff" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressGrineerCharger",
+				"Scans" : 3
+			}
+		},
+		"Kuva Ballista" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressGrineerFemale",
+				"Scans" : 5
+			}
+		},
+		"Kuva Bombard" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressRocketBombard",
+				"Scans" : 3
+			}
+		},
+		"Kuva Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressBladeSawman",
+				"Scans" : 20
+			}
+		},
+		"Kuva Dargyn" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/Avatars/FortressSkiff",
+				"Scans" : 5
+			}
+		},
+		"Kuva Drahk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressCombatKubrowAgent",
+				"Scans" : 20
+			}
+		},
+		"Kuva Drahk Master" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressBeastMaster",
+				"Scans" : 5
+			}
+		},
+		"Kuva Elite Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressEliteRifleLancer",
+				"Scans" : 5
+			}
+		},
+		"Kuva Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressEviseratorLancer",
+				"Scans" : 5
+			}
+		},
+		"Kuva Flameblade" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressBlowtorchSawman",
+				"Scans" : 10
+			}
+		},
+		"Kuva Guardian" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/GrineerRoyalGuard/GrineerRoyalGuardAgent",
+				"Scans" : 20
+			}
+		},
+		"Kuva Heavy Gunner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressMinigunBombard",
+				"Scans" : 3
+			}
+		},
+		"Kuva Hellion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressJetpackMarine",
+				"Scans" : 5
+			}
+		},
+		"Kuva Hyekka" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressCombatCatbrowAgent",
+				"Scans" : 20
+			}
+		},
+		"Kuva Hyekka Master" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressCatMaster",
+				"Scans" : 5
+			}
+		},
+		"Kuva Jester" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/RoyalJester/RoyalJesterAvatar",
+				"Scans" : 20
+			}
+		},
+		"Kuva Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressRifleLancer",
+				"Scans" : 20
+			}
+		},
+		"Kuva Larvling" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/KuvaLich/KuvaLarvlingAgent",
+				"Scans" : 5
+			}
+		},
+		"Kuva Larvling (Female)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/KuvaLich/KuvaLarvlingFemaleAgent",
+				"Scans" : 5
+			}
+		},
+		"Kuva Napalm" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressIncendiaryBombard",
+				"Scans" : 3
+			}
+		},
+		"Kuva Powerclaw" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressPistonSawman",
+				"Scans" : 10
+			}
+		},
+		"Kuva Roller" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressGrineerRollingDrone",
+				"Scans" : 10
+			}
+		},
+		"Kuva Scorch" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressFlameLancer",
+				"Scans" : 3
+			}
+		},
+		"Kuva Scorpion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressMacheteWoman",
+				"Scans" : 10
+			}
+		},
+		"Kuva Seeker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressGrineerMarinePistol",
+				"Scans" : 5
+			}
+		},
+		"Kuva Shield Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressShieldLancer",
+				"Scans" : 20
+			}
+		},
+		"Kuva Siphon" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Kuva Trokarian" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Zariman/GrnAntiWarframeAgent",
+				"Scans" : 3
+			}
+		},
+		"Kuva Trooper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Fortress/FortressShotgunLancer",
+				"Scans" : 10
+			}
+		},
+		"Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/RifleLancer",
+				"Scans" : 20
+			}
+		},
+		"Lancer Dreg" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Grineer/Drones/LaserDrone",
+				"Scans" : 10
+			}
+		},
+		"Lancer Survivor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/InfestedMicroPlanet/GrineerShotgunSurvivorAgent",
+				"Scans" : 20
+			}
+		},
+		"Latcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/StickyRollingDrone",
+				"Scans" : 10
+			}
+		},
+		"Leekter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/DeathSquad/DeathSquadB",
+				"Scans" : 3
+			}
+		},
+		"Lektro Commander" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/RailJack/AdmiralLightningAgent",
+				"Scans" : 3
+			}
+		},
+		"Lieutenant Lech Kril" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/BossLechKrilAgent",
+				"Scans" : 3
+			}
+		},
+		"Manic Bombard" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/ManicRocketBombard",
+				"Scans" : 3
+			}
+		},
+		"Mordda Turret" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonAutoTurretAgentMortar",
+				"Scans" : 20
+			}
+		},
+		"Napalm" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/IncendiaryBombard",
+				"Scans" : 3
+			}
+		},
+		"Nightwatch Bailiff" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/NightwatchGrineerCharger",
+				"Scans" : 20
+			}
+		},
+		"Nightwatch Bombard" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/NightwatchHeavyGunnerAvatar",
+				"Scans" : 3
+			}
+		},
+		"Nightwatch Carrier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/NightwatchCarrierRifleLancer",
+				"Scans" : 10
+			}
+		},
+		"Nightwatch Gunner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/NightwatchHeavyGunner",
+				"Scans" : 3
+			}
+		},
+		"Nightwatch Hyekka Master" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/NightwatchCatMaster",
+				"Scans" : 5
+			}
+		},
+		"Nightwatch Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/NightwatchRifleLancer",
+				"Scans" : 20
+			}
+		},
+		"Nightwatch Manic" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/NightwatchManic",
+				"Scans" : 3
+			}
+		},
+		"Nightwatch Powerclaw" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/NightwatchPowerfist",
+				"Scans" : 10
+			}
+		},
+		"Nightwatch Reaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/JetpackHeavyMarine",
+				"Scans" : 5
+			}
+		},
+		"Nightwatch Seeker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/NightwatchGrineerMarinePistol",
+				"Scans" : 5
+			}
+		},
+		"Nox" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/ChemStrike/ChemStrikeNoxAgent",
+				"Scans" : 3
+			}
+		},
+		"Ogma" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Grineer/Pods/CombatPod",
+				"Scans" : 3
+			}
+		},
+		"Ogma Elite" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Plains Commander" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/Vip/EidolonVipGruntAgent",
+				"Scans" : 3
+			}
+		},
+		"Powerfist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/PistonSawman",
+				"Scans" : 10
+			}
+		},
+		"Propaganda Drone" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Prosecutor" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Recon Commander" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/Vip/Avatars/EidolonVipSniperAvatar",
+				"Scans" : 3
+			}
+		},
+		"Regulator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/SpecialEvents/SurveillanceDroneAvatar",
+				"Scans" : 20
+			}
+		},
+		"Roller" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/GrineerRollingDrone",
+				"Scans" : 10
+			}
+		},
+		"Roller Sentry" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/RollerAutoTurret",
+				"Scans" : 10
+			}
+		},
+		"Scorch" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/FlameLancer",
+				"Scans" : 3
+			}
+		},
+		"Scorpion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/MacheteWoman",
+				"Scans" : 10
+			}
+		},
+		"Seeker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/GrineerMarinePistol",
+				"Scans" : 5
+			}
+		},
+		"Sensor Regulator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/Avatars/CameraDroneAvatar",
+				"Scans" : 20
+			}
+		},
+		"Senta Turret (Kuva Fortress)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/GrineerAutoTurretStaticAgent",
+				"Scans" : 20
+			}
+		},
+		"Shield Dargyn" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Grineer/Skiffs/ShieldSkiff",
+				"Scans" : 5
+			}
+		},
+		"Shield Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/ShieldLancer",
+				"Scans" : 20
+			}
+		},
+		"Shield-Hellion Dargyn" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Grineer/Skiffs/MissileShieldSkiff",
+				"Scans" : 5
+			}
+		},
+		"Shik Tal" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/DeathSquad/DeathSquadC",
+				"Scans" : 3
+			}
+		},
+		"Shock Draga" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Water/Grineer/EelLancerAgent",
+				"Scans" : 20
+			}
+		},
+		"Sikula" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Water/Grineer/WaterMineDrone",
+				"Scans" : 10
+			}
+		},
+		"Sprag" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/JetpackMeleeMarine",
+				"Scans" : 3
+			}
+		},
+		"Temporal Dreg" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Grineer/Drones/StasisDrone",
+				"Scans" : 10
+			}
+		},
+		"Trooper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/ShotgunLancer",
+				"Scans" : 10
+			}
+		},
+		"Trooper Survivor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/InfestedMicroPlanet/GrineerShotgunSurvivorAvatar",
+				"Scans" : 10
+			}
+		},
+		"Tusk Ballista" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonGrineerFemale",
+				"Scans" : 5
+			}
+		},
+		"Tusk Bolkor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/GrineerDropship/GrineerBigDropshipAgent",
+				"Scans" : 3
+			}
+		},
+		"Tusk Bombard" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonRocketBombard",
+				"Scans" : 3
+			}
+		},
+		"Tusk Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonBladeSawman",
+				"Scans" : 20
+			}
+		},
+		"Tusk Carabus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/Vip/EidolonVipGruntDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Tusk Command Dargyn" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/Vip/EidolonVipSkiffAgent",
+				"Scans" : 3
+			}
+		},
+		"Tusk Dargyn" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/GrineerSkiff/GrineerSkiffAgent",
+				"Scans" : 5
+			}
+		},
+		"Tusk Elite Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonEliteRifleLancer",
+				"Scans" : 5
+			}
+		},
+		"Tusk Eviscerator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonEviseratorLancer",
+				"Scans" : 5
+			}
+		},
+		"Tusk Firbolg" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/GrineerDropship/GrineerDropshipAgent",
+				"Scans" : 3
+			}
+		},
+		"Tusk Flameblade" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonBlowtorchSawman",
+				"Scans" : 10
+			}
+		},
+		"Tusk Heavy Gunner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonMinigunBombard",
+				"Scans" : 3
+			}
+		},
+		"Tusk Hellion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonJetpackMarine",
+				"Scans" : 5
+			}
+		},
+		"Tusk Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonRifleLancer",
+				"Scans" : 20
+			}
+		},
+		"Tusk Mortar Bombard" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonMortarBombard",
+				"Scans" : 3
+			}
+		},
+		"Tusk Napalm" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonIncendiaryBombard",
+				"Scans" : 3
+			}
+		},
+		"Tusk Ogma" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/GrineerBomber/GrineerBomberAvatar",
+				"Scans" : 3
+			}
+		},
+		"Tusk Predator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonPredator",
+				"Scans" : 10
+			}
+		},
+		"Tusk Reaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonJetpackMelee",
+				"Scans" : 5
+			}
+		},
+		"Tusk Roller" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonGrineerRollingDrone",
+				"Scans" : 10
+			}
+		},
+		"Tusk Seeker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonGrineerMarinePistol",
+				"Scans" : 5
+			}
+		},
+		"Tusk Seeker Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Narmer/NarmerEidolonAlarmDroneAgent",
+				"Scans" : 20
+			}
+		},
+		"Tusk Shield Dargyn" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/GrineerSkiff/GrineerShieldSkiffAgent",
+				"Scans" : 5
+			}
+		},
+		"Tusk Shield Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonShieldLancer",
+				"Scans" : 20
+			}
+		},
+		"Tusk Target" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Tusk Thumper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Thumper/ThumperAgent",
+				"Scans" : 3
+			}
+		},
+		"Tusk Thumper Bull" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Thumper/ThumperMedAgent",
+				"Scans" : 3
+			}
+		},
+		"Tusk Thumper Doma" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Thumper/ThumperLargeAgent",
+				"Scans" : 3
+			}
+		},
+		"Tusk Trooper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonShotgunLancer",
+				"Scans" : 10
+			}
+		},
+		"Tyl Regor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/TylRegor/TylRegorAgent",
+				"Scans" : 3
+			}
+		},
+		"Vay Hek Terra Frame" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Vip/Hek/HekBipedAgent",
+				"Scans" : 3
+			}
+		},
+		"Vem Tabook" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/DeathSquad/DeathSquadA",
+				"Scans" : 3
+			}
+		},
+		"Ven'kra Tel" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/JetpackSniper",
+				"Scans" : 3
+			}
+		},
+		"Vruush Turret" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Eidolon/EidolonAutoTurretAgentRocket",
+				"Scans" : 20
+			}
+		},
+		"Zeplen" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Grineer/GrineerMissilePlatAvatar",
+				"Scans" : 3
+			}
+		},
+		"002-ER" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamD/CCTeamDOspreyAgent",
+				"Scans" : 5
+			}
+		},
+		"Alad V" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/AladV/AladBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Alkonost" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamCorpusOverrideAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Arca Heqet" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/Prototypes/AmalgamPrototypeMeleeAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Arca Kucumatz" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/Prototypes/AmalgamPrototypeCarrusAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Cinder Machinist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/Prototypes/AmalgamPrototypeCarrusPilotAgent",
+				"Scans" : 5
+			}
+		},
+		"Amalgam Heqet" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamCorpusSniperAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Kucumatz" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamCarrusAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Machinist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamCarrusPilotAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamMoaAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamOspreyAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Phase MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/Prototypes/AmalgamPrototypeMoaAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Satyr" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamMoaSatyrAgent",
+				"Scans" : 3
+			}
+		},
+		"Amalgam Swarm Satyr" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/Prototypes/AmalgamPrototypeSatyrAgent",
+				"Scans" : 3
+			}
+		},
+		"Ambulas" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Ambulas/BossAmbulasRangedAgent",
+				"Scans" : 3
+			}
+		},
+		"Anti MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserDiscBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Armaments Director" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Commanders/VenusCommanderAquaAgent",
+				"Scans" : 3
+			}
+		},
+		"Armis Ulta" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamD/CCTeamDBusterAAgent",
+				"Scans" : 3
+			}
+		},
+		"Attack Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/DroneAttackAgent",
+				"Scans" : 5
+			}
+		},
+		"Attack Drone (Archwing Enemy)" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Auditor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBRiotMoaAgent",
+				"Scans" : 5
+			}
+		},
+		"Aurax Actinic" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpSpecOpsShockerAgent",
+				"Scans" : 3
+			}
+		},
+		"Aurax Atloc Raknoid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/SpecOpsArachnoidAgent",
+				"Scans" : 3
+			}
+		},
+		"Aurax Baculus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/SpecOpsStaffAgent",
+				"Scans" : 3
+			}
+		},
+		"Aurax Culveri MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/SpecOpsFireMoaAgent",
+				"Scans" : 3
+			}
+		},
+		"Aurax Polaris MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/SpecOpsIceMoaAgent",
+				"Scans" : 3
+			}
+		},
+		"Aurax Vertec" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpSpecOpsMinigunAgent",
+				"Scans" : 3
+			}
+		},
+		"Axio Basilisk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Neptune/SpaceFighterNeptuneChargeAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewRifleAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Crewship" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Axio Detron Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewShotgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Disc MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewDiscBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Elite Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Engineer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpTechEngineerAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Gox" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Neptune/SpaceFighterNeptuneGoxAgent",
+				"Scans" : 3
+			}
+		},
+		"Axio Harpi" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Neptune/SpaceFighterNeptuneLaserAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewCannonBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Nullifier Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewNullifierAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Numon" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneBoardingShotgunSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Pilot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewshipCaptain",
+				"Scans" : 5
+			}
+		},
+		"Axio Railgun MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewRJRailgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Ranger Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCorpusRailjackFlyingSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Shield Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewShieldDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Axio Shockwave MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpRailjackShockwaveBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Stropha Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewMeleeAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Tech" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneCrpCrewmanTechDeployableAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Vambac" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneBoardingRifleSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Weaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Neptune/SpaceFighterNeptunePlasmaAgent",
+				"Scans" : 5
+			}
+		},
+		"Axio Zerca" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Neptune/NeptuneBoardingMeleeSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Azoth" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBHyenaAgent",
+				"Scans" : 3
+			}
+		},
+		"Buzzard Dropship" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Dropship/Venus/VenusSmallDropshipAgent",
+				"Scans" : 10
+			}
+		},
+		"Cannon Battery (Corpus)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Turrets/CorpusSpaceTurretAgent",
+				"Scans" : 10
+			}
+		},
+		"Carrier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/SwarmShipNavAgent",
+				"Scans" : 5
+			}
+		},
+		"Cinderthresh Hyena" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/Hyenas/VenusHyenaPacerAgent",
+				"Scans" : 3
+			}
+		},
+		"Coildrive" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vehicle/WheelCarAgent",
+				"Scans" : 1
+			}
+		},
+		"Comet Shard" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/CorpusIceSledAgent",
+				"Scans" : 5
+			}
+		},
+		"Condor Dropship" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Dropship/CorpusDropshipAgent",
+				"Scans" : 10
+			}
+		},
+		"Condor Dropship (Orb Vallis)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Dropship/Venus/VenusDropshipAgent",
+				"Scans" : 10
+			}
+		},
+		"Condor Storm Dropship" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Ambulas/AmbulasDropshipAgent",
+				"Scans" : 10
+			}
+		},
+		"Coolant Raknoid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Arachnoid/ArachnoidCoolantAgent",
+				"Scans" : 5
+			}
+		},
+		"Corpus Cestra Target" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Vip/VenusVipDualPistolSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Corpus Power Carrier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/CarrierSpacemanAgent",
+				"Scans" : 20
+			}
+		},
+		"Corpus Power Carrier (Orb Vallis)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusSpacemanCarrierAgent",
+				"Scans" : 5
+			}
+		},
+		"Corpus Ramsled" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/CorpusRamSledAgent",
+				"Scans" : 5
+			}
+		},
+		"Corpus Sniper Target" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Vip/VenusVipSniperSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Corpus Supra Target" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Vip/VenusVipShotgunSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Corpus Target" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Corpus Tech" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/DeployableSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Corpus Trencher Target" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Vip/VenusVipPowerSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Corpus Warden" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Gamemodes/DeployableSpacemanWardenAgent",
+				"Scans" : 3
+			}
+		},
+		"Corvette" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/FlakShipNavAgent",
+				"Scans" : 5
+			}
+		},
+		"Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/RifleSpacemanAgent",
+				"Scans" : 20
+			}
+		},
+		"Cryo Sentry" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpAdmiralFreezeTurretAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolisher Anti MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Disruption/DisruptionLaserDiscBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Demolisher Bursa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Disruption/DisruptionRiotMoaAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolisher Hyena" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Disruption/DisruptionHyenaAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolisher Machinist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Disruption/DisruptionCarrusPilotAgent",
+				"Scans" : 5
+			}
+		},
+		"Demolyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamPilotGhostBossAgent",
+				"Scans" : 5
+			}
+		},
+		"Demolyst Heqet" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamCorpusSniperBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolyst Machinist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamCarrusPilotBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolyst MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamMoaBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolyst Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamOspreyBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolyst Satyr" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamMoaSatyrBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Denial Bursa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/RiotBipedPreventionAgent",
+				"Scans" : 3
+			}
+		},
+		"Derim Zahn" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamC/CCTeamCSimplifiedHackerAgent",
+				"Scans" : 5
+			}
+		},
+		"Derivator Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Zariman/CrpInterrupterAgent",
+				"Scans" : 5
+			}
+		},
+		"Detron Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/ShotgunSpacemanAgent",
+				"Scans" : 20
+			}
+		},
+		"Drover Bursa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/RiotBipedControlAgent",
+				"Scans" : 3
+			}
+		},
+		"Dru Pesfor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamD/CCTeamDBusterBAgent",
+				"Scans" : 3
+			}
+		},
+		"Elite Axio Basilisk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Neptune/SpaceFighterNeptuneChargeEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Axio Harpi" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Neptune/SpaceFighterNeptuneLaserEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Axio Weaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Neptune/SpaceFighterNeptunePlasmaEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/EliteSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Orm Basilisk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/DeepSpace/SpaceFighterDSChargeEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Orm Harpi" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/DeepSpace/SpaceFighterDSLaserEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Orm Weaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/DeepSpace/SpaceFighterDSPlasmaEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Taro Basilisk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Fighters/SpaceFighterChargeEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Taro Harpi" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Fighters/SpaceFighterLaserEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Taro Weaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Fighters/SpaceFighterPlasmaEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Vorac Basilisk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Pluto/SpaceFighterPlutoChargeEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Vorac Harpi" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Pluto/SpaceFighterPlutoLaserEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Elite Vorac Weaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Pluto/SpaceFighterPlutoPlasmaEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Errant Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Gamemodes/PurgatoryWarrior",
+				"Scans" : 30
+			}
+		},
+		"Exploiter Orb" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Arachnoid/ArachnoidCamperTerraAgent",
+				"Scans" : 3
+			}
+		},
+		"Fog Comba" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAgentWalkingDetector",
+				"Scans" : 3
+			}
+		},
+		"Fog Scrambus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAgentSkatingDetector",
+				"Scans" : 3
+			}
+		},
+		"Frigate" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/LaserShipNavAgent",
+				"Scans" : 5
+			}
+		},
+		"Fusion MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/SuperMoaBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Gox" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/CorpusPodAgent",
+				"Scans" : 3
+			}
+		},
+		"Gyre Hyena" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/Hyenas/VenusHyenaHotrodAgent",
+				"Scans" : 3
+			}
+		},
+		"Hyena LN2" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Hyena/HyenaIceAgent",
+				"Scans" : 3
+			}
+		},
+		"Hyena NG" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Hyena/HyenaFireAgent",
+				"Scans" : 3
+			}
+		},
+		"Hyena PB" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Hyena/HyenaGunAgent",
+				"Scans" : 3
+			}
+		},
+		"Hyena TH" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Hyena/HyenaElecAgent",
+				"Scans" : 3
+			}
+		},
+		"Icemire Hyena" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/Hyenas/VenusHyenaAstroAgent",
+				"Scans" : 3
+			}
+		},
+		"Isolator Bursa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/RiotBipedDispersionAgent",
+				"Scans" : 3
+			}
+		},
+		"Jackal" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/QuadRobot/QuadRobotAgentNEW",
+				"Scans" : 3
+			}
+		},
+		"Jad Teran" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBDisruptorAgent",
+				"Scans" : 3
+			}
+		},
+		"Jen Dro" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamC/CCTeamCDeceptionAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipCrewmanAgent",
+				"Scans" : 20
+			}
+		},
+		"Juno Dera MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipMoaDeraAgent",
+				"Scans" : 20
+			}
+		},
+		"Juno Disc MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipMoaDiscAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Elite Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipCrewmanEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Fog Comba" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipCombaDetectorAgent",
+				"Scans" : 3
+			}
+		},
+		"Juno Geminex MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipMoaDualCannonAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Glaxion MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipMoaGlaxionAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Jactus Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipOspreyMineAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Malleus Machinist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipMachinistHammerAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Nul Comba" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipCombaShieldAgent",
+				"Scans" : 3
+			}
+		},
+		"Juno Nullifier Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipCrewmanNullifierAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Oxium Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipOspreyOxiumAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Sap Comba" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipCombaLaserAgent",
+				"Scans" : 3
+			}
+		},
+		"Juno Sapper MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Gamemodes/Ascension/AscensionCannonMoaAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Shield Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipOspreyShieldAgent",
+				"Scans" : 20
+			}
+		},
+		"Juno Slo Comba" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipCombaTeslaAgent",
+				"Scans" : 3
+			}
+		},
+		"Juno Sniper Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipCrewmanSniperAgent",
+				"Scans" : 5
+			}
+		},
+		"Juno Tech" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/CorpusShipRemastered/ShipCrewmanTechAgent",
+				"Scans" : 5
+			}
+		},
+		"Kyta Raknoid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Arachnoid/ArachnoidWraithAgent",
+				"Scans" : 3
+			}
+		},
+		"Latrox Une" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/DeployableSpacemanResearcher",
+				"Scans" : 3
+			}
+		},
+		"Leech Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/LeechDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Lockjaw & Sol" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamAZanukaAgent",
+				"Scans" : 3
+			}
+		},
+		"Locust Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Drones/SwarmDrone",
+				"Scans" : 10
+			}
+		},
+		"Lynx" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/QuadRobot/MiniBoss/QuadRobotMiniBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Lynx Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/QuadRobot/MiniBoss/ShieldDroneMiniBossAgent",
+				"Scans" : 20
+			}
+		},
+		"Lynx Turret" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/QuadRobot/MiniBoss/TurretQuadMiniBossAgent",
+				"Scans" : 20
+			}
+		},
+		"Machinist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/CorpusCarrusPilotAgent",
+				"Scans" : 5
+			}
+		},
+		"Mine Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/MineDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Minima MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Aristocrats/MiniMoaAgent",
+				"Scans" : 20
+			}
+		},
+		"Mite Raknoid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Arachnoid/ArachnoidMicroAgent",
+				"Scans" : 3
+			}
+		},
+		"MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserCannonBipedAgent",
+				"Scans" : 20
+			}
+		},
+		"M-W.A.M." : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamC/CCTeamCMoaAgent",
+				"Scans" : 5
+			}
+		},
+		"Nako Xol" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamARifleAgent",
+				"Scans" : 5
+			}
+		},
+		"Nemes" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/SpecialEvents/ArtificerSuicideDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Nemes Ranger" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Nemes Rt" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/Vip/RaptorTwoSwarmDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Nemes Scout" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Nul Comba" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAgentWalkingShield",
+				"Scans" : 3
+			}
+		},
+		"Nul Scrambus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAgentSkatingShield",
+				"Scans" : 3
+			}
+		},
+		"Nullifier Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/NullifySpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Nullifier Target" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CaptureTargets/CaptureTargetCorpusNullifier",
+				"Scans" : 20
+			}
+		},
+		"Optio" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpAdmiralFlyingAgent",
+				"Scans" : 3
+			}
+		},
+		"Orm Basilisk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/DeepSpace/SpaceFighterDSChargeAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewRifleAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Crewship" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Orm Detron Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewShotgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Disc MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewDiscBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Elite Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Engineer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpTechEngineerAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Gox" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/DeepSpace/SpaceFighterDSGoxAgent",
+				"Scans" : 3
+			}
+		},
+		"Orm Harpi" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/DeepSpace/SpaceFighterDSLaserAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewCannonBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Nullifier Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewNullifierAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Numon" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceBoardingShotgunSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Pilot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewshipCaptain",
+				"Scans" : 5
+			}
+		},
+		"Orm Railgun MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewRJRailgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Ranger Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCorpusRailjackFlyingSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Shield Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewShieldDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Orm Shockwave MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpRailjackShockwaveBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Stropha Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewMeleeAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Tech" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewmanTechDeployableAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Vambac" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceBoardingRifleSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Weaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/DeepSpace/SpaceFighterDSPlasmaAgent",
+				"Scans" : 5
+			}
+		},
+		"Orm Zerca" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceBoardingMeleeSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Oxium Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/SuicideDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Pelna Cade" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamASkateAgent",
+				"Scans" : 3
+			}
+		},
+		"Penta Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/CrewMan/JetCorpusTwoNavAgent",
+				"Scans" : 5
+			}
+		},
+		"Prod Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/MeleeSpacemanAgent",
+				"Scans" : 20
+			}
+		},
+		"Profit-Taker Orb" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Arachnoid/ArachnoidCamperAvatar",
+				"Scans" : 3
+			}
+		},
+		"Protea Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/OdaliskQuest/OdaliskQuestSpecterAgent",
+				"Scans" : 1
+			}
+		},
+		"Quanta Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/CrewMan/JetCorpusThreeNavAgent",
+				"Scans" : 5
+			}
+		},
+		"Rabbleback Hyena" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/Hyenas/VenusHyenaBurnerAgent",
+				"Scans" : 3
+			}
+		},
+		"Railgun MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/RailgunBipedAgent",
+				"Scans" : 10
+			}
+		},
+		"Rana Del" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamD/CCTeamDBusterCAgent",
+				"Scans" : 3
+			}
+		},
+		"Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/CrewMan/JetCorpusNavAgent",
+				"Scans" : 5
+			}
+		},
+		"Raptor Mt" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/Vip/RaptorTwoCarrierAgent",
+				"Scans" : 3
+			}
+		},
+		"Raptor Ns" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/Vip/RaptorTwoMortarAgent",
+				"Scans" : 3
+			}
+		},
+		"Raptor Rv" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/Vip/RaptorTwoLaserAgent",
+				"Scans" : 3
+			}
+		},
+		"Raptor RX" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamB/CCTeamBOspreyAgent",
+				"Scans" : 5
+			}
+		},
+		"Ratel" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/QuadRobot/MicroHyenaAgent",
+				"Scans" : 20
+			}
+		},
+		"Razorback" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/SpecialEvents/ArmoredJackal/ArmoredJackalAgent",
+				"Scans" : 3
+			}
+		},
+		"Remech Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Ambulas/AmbulasHackingDrone",
+				"Scans" : 5
+			}
+		},
+		"Sap Comba" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAgentWalkingLaser",
+				"Scans" : 3
+			}
+		},
+		"Sap Scrambus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAgentSkatingLaser",
+				"Scans" : 3
+			}
+		},
+		"Sapping Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/DiscDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Scavenger Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/VacuumDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Scrofa Armaments Director" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Vip/NokkoBaseCorpusVIPAgent",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Attack Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoFlyingAttackAgent",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoEliteSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Decoy Moa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoSuicideBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Demolition Director" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Vip/NokkoColonyVIPAvatarA",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Drover Bursa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoBaseHeavyBipedAgent",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Elite Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoHeavyEliteSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Energy Chief" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Vip/NokkoTrappedChestVIPAgent",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Grenadier Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoRangedHeavyAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Heavy Trencher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoMeleeHeavyAgent",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Joro Raknoid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Vip/NokkoBaseRaknoidVIPAgent",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Laser Moa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoLaserCannonBipedAgent",
+				"Scans" : 10
+			}
+		},
+		"Scrofa Latro Raknoid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Vip/NokkoPlantVIPAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Legionary" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoLabMeleeHeavyAgent",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Light Trencher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoMeleeLightAgent",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Mine Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoMineDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Scrofa Mite Raknoid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoMiniArachnoidAgent",
+				"Scans" : 20
+			}
+		},
+		"Scrofa Obviator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoNullifySpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Railgun Moa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoRailgunBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Research Chief" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Vip/NokkoLabVIPAgent",
+				"Scans" : 3
+			}
+		},
+		"Scrofa Shield Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoFlyingSupportAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Shockwave Moa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoShockwaveBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Sniper Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Agents/NokkoSniperAgent",
+				"Scans" : 5
+			}
+		},
+		"Scrofa Strike Director" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/NokkoColony/Vip/NokkoColonyVIPAgentB",
+				"Scans" : 3
+			}
+		},
+		"Scyto Raknoid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Arachnoid/ArachnoidHungerAgent",
+				"Scans" : 3
+			}
+		},
+		"Security Camera" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Turrets/SecurityCameraAgent",
+				"Scans" : 20
+			}
+		},
+		"Senta Turret (Corpus)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Turrets/AutoTurretHeavyAgent",
+				"Scans" : 20
+			}
+		},
+		"Senta Turret (Orb Vallis)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Turrets/CartTurretLaserAgent",
+				"Scans" : 20
+			}
+		},
+		"Sentient Research Director" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Commanders/VenusCommanderOrangeAgent",
+				"Scans" : 3
+			}
+		},
+		"Shield Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/ShieldDroneAgent",
+				"Scans" : 20
+			}
+		},
+		"Shockwave MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/ShockwaveBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Slo Comba" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAgentWalkingTesla",
+				"Scans" : 3
+			}
+		},
+		"Slo Scrambus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAgentSkatingTesla",
+				"Scans" : 3
+			}
+		},
+		"Sniper Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/SniperSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Specter Particles" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Gamemodes/PurgatoryGhost",
+				"Scans" : 20
+			}
+		},
+		"Spectralyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Amalgams/AmalgamSniperReplicaAgent",
+				"Scans" : 3
+			}
+		},
+		"Taro Basilisk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/SpaceFighterChargeAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewRifleAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Crewship" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/DeepSpace/DeepSpaceCrpCrewshipCaptain",
+				"Scans" : 3
+			}
+		},
+		"Taro Detron Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewShotgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Disc MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewDiscBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Elite Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Engineer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpTechEngineerAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Gox" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Fighters/SpaceFighterGoxAgent",
+				"Scans" : 3
+			}
+		},
+		"Taro Harpi" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/SpaceFighterLaserAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewCannonBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Nullifier Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewNullifierAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Numon" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/BoardingShotgunSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Pilot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewshipCaptain",
+				"Scans" : 5
+			}
+		},
+		"Taro Railgun MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewRJRailgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Ranger Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CorpusRailjackFlyingSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Secura Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/OverrideJammingDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Shield Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewShieldDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Taro Shockwave MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpRailjackShockwaveBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Stropha Crewman" : {
+			"General" : {
+				"InternalName" : "Lotus/Types/Enemies/Corpus/Railjack/CrpCrewMeleeAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Tech" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/CrpCrewmanTechDeployableAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Vambac" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/BoardingRifleSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Weaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/SpaceFighterPlasmaAgent",
+				"Scans" : 5
+			}
+		},
+		"Taro Zerca" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/BoardingMeleeSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Ambulas" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/Ambulas/VenusAmbulasAgent",
+				"Scans" : 3
+			}
+		},
+		"Terra Anti MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusLaserDiscBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Attack Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusDroneAttackAgent",
+				"Scans" : 10
+			}
+		},
+		"Terra Auto Turret" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusAutoTurretAgent",
+				"Scans" : 1
+			}
+		},
+		"Terra Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusEliteSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Elite Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusHeavyEliteSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Elite Embattor MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusIcewaveEliteBipedAgent",
+				"Scans" : 3
+			}
+		},
+		"Terra Elite Overtaker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusGrenadierEliteSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Elite Provisor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusFlyingEliteSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Elite Raptor Sx" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusHeavyEliteDroneAgent",
+				"Scans" : 3
+			}
+		},
+		"Terra Elite Trencher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusHeavyMeleeEliteSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Terra Embattor MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusIcewaveBipedAgent",
+				"Scans" : 3
+			}
+		},
+		"Terra Jackal" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/QuadAgent",
+				"Scans" : 3
+			}
+		},
+		"Terra Jailer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusGuardSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Terra Manker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusCombatSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Terra MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusLaserCannonBipedAgent",
+				"Scans" : 10
+			}
+		},
+		"Terra Overtaker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusGrenadierSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Oxium Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusSuicideDroneAgent",
+				"Scans" : 20
+			}
+		},
+		"Terra Plasmor Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusShotgunSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Provisor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusFlyingSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Railgun MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusRailgunBipedAgent",
+				"Scans" : 3
+			}
+		},
+		"Terra Rocket Turret" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusAutoTurretAgentRocket",
+				"Scans" : 1
+			}
+		},
+		"Terra Shield Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusShieldDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Shockwave MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusShockwaveBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Sniper Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusSniperSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Terra Trencher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Heavies/VenusHeavyMeleeSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"The Raptor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Drones/Vip/RaptorPack",
+				"Scans" : 10
+			}
+		},
+		"The Sergeant" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Spaceman/Vip/SniperAgent",
+				"Scans" : 3
+			}
+		},
+		"Thermic Raknoid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/Arachnoid/ArachnoidMoltenAgent",
+				"Scans" : 5
+			}
+		},
+		"Treasurer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Aristocrats/AristocratManagerAgent",
+				"Scans" : 20
+			}
+		},
+		"Vallis Surveillance Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/VenusDefenseDroneAgent",
+				"Scans" : 20
+			}
+		},
+		"Vapos Anti MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasLaserDiscBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Aquila" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Dropship/SpaceFighterLaserHunterShipAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Bioengineer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasScientistAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Condor Dropship" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Dropship/CorpusHunterShipAgent",
+				"Scans" : 10
+			}
+		},
+		"Vapos Condor Elite Dropship" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Dropship/CorpusHunterShipEliteAgent",
+				"Scans" : 10
+			}
+		},
+		"Vapos Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasRifleSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Detron Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasShotgunSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Detron Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasFlyingShotgunSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Elite Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasEliteSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Elite Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasFlyingEliteSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Fusion MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasSuperMoaBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasLaserCannonBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Nullifier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasNullifySpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Nullifier Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasFlyingNullifierSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Oxium Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasSuicideDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Prod Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasMeleeSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Railgun MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasRailgunBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasFlyingSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Sapping Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasDiscDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Shield Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasShieldDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Shockwave MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasShockwaveBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Sniper Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasSniperSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Sniper Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasFlyingSniperSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vapos Tech" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasDeployableSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Vapos Tech Ranger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/GasCity/GasFlyingDeployableSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Ved Xol" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/CorpusChampions/TeamA/CCTeamAHeavyAgent",
+				"Scans" : 3
+			}
+		},
+		"Vivisect Director" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Venus/Commanders/VenusCommanderGreenAgent",
+				"Scans" : 3
+			}
+		},
+		"Vorac Basilisk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Pluto/SpaceFighterPlutoChargeAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewRifleAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Crewship" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Vorac Detron Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewShotgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Disc MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewDiscBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Elite Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewEliteAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Engineer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpTechEngineerAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Gox" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Pluto/SpaceFighterPlutoGoxAgent",
+				"Scans" : 3
+			}
+		},
+		"Vorac Harpi" : {
+			"General" : {
+				"InternalName" : "/Lotus/Language/Railjack/CorpusFighterPlutoLaserName",
+				"Scans" : 5
+			}
+		},
+		"Vorac MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewCannonBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Nullifier Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewNullifierAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Numon" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoBoardingShotgunSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Pilot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewshipCaptain",
+				"Scans" : 5
+			}
+		},
+		"Vorac Railgun MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewRJRailgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Ranger Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCorpusRailjackFlyingSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Shield Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewShieldDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Vorac Shockwave MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpRailjackShockwaveBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Stropha Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewMeleeAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Tech" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoCrpCrewmanTechDeployableAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Vambac" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoBoardingRifleSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Weaver" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Corpus/Ships/Pluto/SpaceFighterPlutoPlasmaAgent",
+				"Scans" : 5
+			}
+		},
+		"Vorac Zerca" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Railjack/Pluto/PlutoBoardingMeleeSpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Zanuka" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/AladVPet/AladVPet",
+				"Scans" : 3
+			}
+		},
+		"Zanuka Hunter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/AladVPet/ZanukaHunterAgent",
+				"Scans" : 3
+			}
+		},
+		"Ancient Disruptor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/AncientAvatar",
+				"Scans" : 5
+			}
+		},
+		"Ancient Healer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/HealingAncient",
+				"Scans" : 5
+			}
+		},
+		"Ancient Infested" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Ancient Protector" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/ProtectorAncient",
+				"Scans" : 5
+			}
+		},
+		"Arcane Boiler" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/SpawningAncientMiniboss",
+				"Scans" : 1
+			}
+		},
+		"Attack Mutalist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Infested/InfestedAttackDrone",
+				"Scans" : 20
+			}
+		},
+		"Basal Diploid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Splitter/SplitterSplitAgent",
+				"Scans" : 5
+			}
+		},
+		"Basal Diploid Rex" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Splitter/SplitterSplitAgentVIP",
+				"Scans" : 5
+			}
+		},
+		"Blighted Maggot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Quadrupeds/RusherAgentMist",
+				"Scans" : 5
+			}
+		},
+		"Brood Mother" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/DiseasedAncient",
+				"Scans" : 5
+			}
+		},
+		"Carrion Charger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Quadrupeds/QuadrupedColonist",
+				"Scans" : 3
+			}
+		},
+		"Charger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Quadrupeds/Quadruped",
+				"Scans" : 20
+			}
+		},
+		"Chroma" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/TennoReplicantChromaAgent",
+				"Scans" : 1
+			}
+		},
+		"Crawler" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Crawlers/MeleeCrawler",
+				"Scans" : 30
+			}
+		},
+		"Deimos Ancient Healer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/HealingAncientMicroPlanet",
+				"Scans" : 5
+			}
+		},
+		"Deimos Brood Mother" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/DiseasedAncientMicroPlanet",
+				"Scans" : 5
+			}
+		},
+		"Deimos Carnis" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Ashen/AshenAgent",
+				"Scans" : 30
+			}
+		},
+		"Deimos Carnis Rex" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Ashen/AshenBigAgent",
+				"Scans" : 3
+			}
+		},
+		"Deimos Charger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/QuadrupedMicroPlanet",
+				"Scans" : 20
+			}
+		},
+		"Deimos Genetrix" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Dropship/InfestedBigDropshipAgent",
+				"Scans" : 5
+			}
+		},
+		"Deimos Juggernaut" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/JuggernautMicroPlanetCasual",
+				"Scans" : 3
+			}
+		},
+		"Deimos Jugulus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/GreyStrain/BoneBlade/BoneBladeAgent",
+				"Scans" : 5
+			}
+		},
+		"Deimos Jugulus Rex" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/GreyStrain/BoneBlade/BoneBladeBossAgent",
+				"Scans" : 30
+			}
+		},
+		"Deimos Leaping Thrasher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/AncientTankMicroPlanetAgent",
+				"Scans" : 5
+			}
+		},
+		"Deimos Mutalist Osprey Carrier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/CellCarrierDroneMicroPlanet",
+				"Scans" : 10
+			}
+		},
+		"Deimos Runner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/MeleeMicroPlanetRunner",
+				"Scans" : 30
+			}
+		},
+		"Deimos Saxum" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/GreyStrain/Femur/InfestedFemurAgent",
+				"Scans" : 3
+			}
+		},
+		"Deimos Saxum Rex" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/FemurAssassinateTargetAgent",
+				"Scans" : 3
+			}
+		},
+		"Deimos Swarm Mutalist MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/NaniteCloudBipedMicroPlanet",
+				"Scans" : 5
+			}
+		},
+		"Deimos Tendril Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Drones/Tendril/InfestedTendrilDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Deimos Therid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Emissary/AncientShellAgent",
+				"Scans" : 5
+			}
+		},
+		"Deimos Undying Flyer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Oni/InfestedJetpackMicroPlanetOni",
+				"Scans" : 10
+			}
+		},
+		"Deimos Venin Mutalist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/InfestedAttackDroneMicroPlanet",
+				"Scans" : 10
+			}
+		},
+		"Demolisher Boiler" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/Disruption/DisruptionBoilerAgent",
+				"Scans" : 5
+			}
+		},
+		"Demolisher Charger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/Disruption/DisruptionQuadrupedAgent",
+				"Scans" : 20
+			}
+		},
+		"Demolisher Juggernaut" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/Disruption/DisruptionJuggernautAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolisher Thrasher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/Disruption/DisruptionAncientTankAgent",
+				"Scans" : 5
+			}
+		},
+		"Electric Crawler" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Crawlers/LightningCrawler",
+				"Scans" : 20
+			}
+		},
+		"Feral Diploid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Splitter/SplitterTopSplitAgent",
+				"Scans" : 5
+			}
+		},
+		"Feral Diploid Rex" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Splitter/SplitterTopSplitAgentVIP",
+				"Scans" : 5
+			}
+		},
+		"Frozen Infested Hive" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Gas Infested Hive" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Hemocyte" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/Eidolon/EidolonLephantisAgent",
+				"Scans" : 3
+			}
+		},
+		"Infested Corpus" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Infested Grineer" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Infested Mesa" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/TennoReplicantGunslingerAgent",
+				"Scans" : 1
+			}
+		},
+		"Infested Oni" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Oni/InfestedOniAgent",
+				"Scans" : 3
+			}
+		},
+		"J3 Jordas Golem" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/Vip/J3Golem/J3GolemSpaceAgent",
+				"Scans" : 3
+			}
+		},
+		"Juggernaut" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Quadrupeds/Juggernaut",
+				"Scans" : 3
+			}
+		},
+		"Juggernaut Behemoth" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Quadrupeds/JuggernautBoss",
+				"Scans" : 3
+			}
+		},
+		"Lancing Infested Hive" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Leaper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Runners/LeapingRunner",
+				"Scans" : 30
+			}
+		},
+		"Leaping Thrasher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Emissary/AncientTankAgent",
+				"Scans" : 5
+			}
+		},
+		"Lephantis" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/Vip/GolemFullAgent",
+				"Scans" : 3
+			}
+		},
+		"Lobber Crawler" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Crawlers/GrenadeCrawler",
+				"Scans" : 30
+			}
+		},
+		"Maggot" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Quadrupeds/RusherAgent",
+				"Scans" : 30
+			}
+		},
+		"Mitosid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Splitter/SplitterAgent",
+				"Scans" : 1
+			}
+		},
+		"Mitosid Rex" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/Splitter/SplitterAgentVIP",
+				"Scans" : 1
+			}
+		},
+		"Mutalist Alad V" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Vip/InfestedAladV/InfestedAladBossAgent",
+				"Scans" : 3
+			}
+		},
+		"Mutalist Lightning Carrier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Infested/LightningCarrierDrone",
+				"Scans" : 20
+			}
+		},
+		"Mutalist Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/InfestedDrones/PoisonDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Mutalist Osprey Carrier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/InfestedDrones/CellCarrierDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Mutalist Toxic Carrier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Infested/GrenadeCarrierDrone",
+				"Scans" : 10
+			}
+		},
+		"Nauseous Crawler" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Crawlers/GraspingCrawler",
+				"Scans" : 20
+			}
+		},
+		"Phorid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/Vip/QuadrupedVIP",
+				"Scans" : 3
+			}
+		},
+		"Polyp-Hog Juggernaut" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/InfestedMicroplanet/JuggernautMicroPlanetEscort",
+				"Scans" : 3
+			}
+		},
+		"Pulsing Infested Hive" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Runner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Runners/MeleeRunner",
+				"Scans" : 30
+			}
+		},
+		"Security Infested Hive" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Stabilization Infested Hive" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Swarm Mutalist MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/InfestedMoas/NaniteCloudBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Tar Mutalist MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/InfestedMoas/SlowBombBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Toxic Ancient" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Ancients/ToxicAncient",
+				"Scans" : 3
+			}
+		},
+		"Toxic Crawler" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Crawlers/NoxiousCrawler",
+				"Scans" : 20
+			}
+		},
+		"Undying Flyer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Emissary/InfestedJetpackAgent",
+				"Scans" : 10
+			}
+		},
+		"Venin Mutalist" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/InfestedDrones/InfestedAttackDroneAgent",
+				"Scans" : 10
+			}
+		},
+		"Volatile Runner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/Runners/SuicideRunner",
+				"Scans" : 20
+			}
+		},
+		"Zealoid Bastion" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/WeaveMutalist/DecodeSpawn",
+				"Scans" : 3
+			}
+		},
+		"Zealoid Prelate" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/AiWeek/WeaveMutalist/WeaveMutalist",
+				"Scans" : 3
+			}
+		},
+		"Zealot Baptizer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/SpecialEvents/ArloZealotSwordAgent",
+				"Scans" : 5
+			}
+		},
+		"Zealot Herald" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/SpecialEvents/ArloZealotGunAgent",
+				"Scans" : 5
+			}
+		},
+		"Zealot Proselytizer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Infested/SpecialEvents/ArloZealotDual/ArloZealotDualSwordGunAgent",
+				"Scans" : 5
+			}
+		},
+		"Corrupted Ancient" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/OrokinHealingAncient",
+				"Scans" : 5
+			}
+		},
+		"Corrupted Bombard" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/OrokinRocketBombard",
+				"Scans" : 3
+			}
+		},
+		"Corrupted Butcher" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/OrokinBladeSawman",
+				"Scans" : 20
+			}
+		},
+		"Corrupted Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/RifleSpacemanAgent",
+				"Scans" : 20
+			}
+		},
+		"Corrupted Drahk" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corrupted/CorruptedCombatKubrowAgent",
+				"Scans" : 5
+			}
+		},
+		"Corrupted Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/OrokinDroneAttackAgent",
+				"Scans" : 5
+			}
+		},
+		"Corrupted Heavy Gunner" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/OrokinMinigunBombard",
+				"Scans" : 3
+			}
+		},
+		"Corrupted Jackal" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Duviri/Jackal/QuadRobotAgentDuviri",
+				"Scans" : 5
+			}
+		},
+		"Corrupted Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/RifleLancer",
+				"Scans" : 20
+			}
+		},
+		"Corrupted MOA" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/OrokinMoaBipedAgent",
+				"Scans" : 5
+			}
+		},
+		"Corrupted Nullifier" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/OrokinNullifySpacemanAgent",
+				"Scans" : 5
+			}
+		},
+		"Corrupted Warden" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/Gamemodes/CorruptedWardenAgent",
+				"Scans" : 3
+			}
+		},
+		"Ember Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantEmberAgent",
+				"Scans" : 1
+			}
+		},
+		"Equinox Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantYinYangAvatar",
+				"Scans" : 1
+			}
+		},
+		"Excalibur Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantExcaliburAvatar",
+				"Scans" : 1
+			}
+		},
+		"Feyarch Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/FairyQuest/FairyQuestPaladinAvatar",
+				"Scans" : 1
+			}
+		},
+		"Frost Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantFrostAgent",
+				"Scans" : 1
+			}
+		},
+		"Knave Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/FairyQuest/FairyQuestLokiAgent",
+				"Scans" : 1
+			}
+		},
+		"Loki Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantLokiAgent",
+				"Scans" : 1
+			}
+		},
+		"Mag Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantMagAgent",
+				"Scans" : 1
+			}
+		},
+		"Mesa Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/JunctionRework/MesaJunctionBossAvatar",
+				"Scans" : 1
+			}
+		},
+		"Nova Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantNovaAgent",
+				"Scans" : 1
+			}
+		},
+		"Orokin Drone" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/OrokinShieldDroneAgent",
+				"Scans" : 20
+			}
+		},
+		"Orokin Sentry" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/OrokinAutoTurretAgent",
+				"Scans" : 20
+			}
+		},
+		"Orokin Spectator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/CameraDroneAgentOrokin",
+				"Scans" : 20
+			}
+		},
+		"Orphid Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/FairyQuest/FairyQuestSarynAgent",
+				"Scans" : 1
+			}
+		},
+		"Rhino Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantRhinoAgent",
+				"Scans" : 1
+			}
+		},
+		"Saryn Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantSarynAgent",
+				"Scans" : 1
+			}
+		},
+		"Trinity Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantTrinityAgent",
+				"Scans" : 1
+			}
+		},
+		"Valkyr Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantBerserkerAgent",
+				"Scans" : 1
+			}
+		},
+		"Volt Specter" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/JunctionRework/VoltJunctionBossAvatar",
+				"Scans" : 1
+			}
+		},
+		"Aerolyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Aerolyst/SentientAerolystAgent",
+				"Scans" : 5
+			}
+		},
+		"Anu Brachiolyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/RailJack/SentientBoardingBrachiolystAgent",
+				"Scans" : 5
+			}
+		},
+		"Brachiolyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Brachiolyst/SentientBrachiolystAgent",
+				"Scans" : 5
+			}
+		},
+		"Choralyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Eidolon/SentientEidolonGhostCasterAgent",
+				"Scans" : 5
+			}
+		},
+		"Conculyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Troopers/SentientMeleeTrooperAgent",
+				"Scans" : 5
+			}
+		},
+		"Condrix" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Condrix/SentientCondrixAgent",
+				"Scans" : 20
+			}
+		},
+		"Dactolyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/GuiltSentient/SentientGuiltBossAgent",
+				"Scans" : 1
+			}
+		},
+		"Decaying Battalyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Troopers/SentientVoidTrooperAgent",
+				"Scans" : 5
+			}
+		},
+		"Decaying Conculyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Troopers/SentientVoidMeleeTrooperAgent",
+				"Scans" : 5
+			}
+		},
+		"Eidolon Gantulyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Eidolon/SentientTeralystBigAgent",
+				"Scans" : 3
+			}
+		},
+		"Eidolon Hydrolyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Eidolon/SentientTeralystRainAgent",
+				"Scans" : 3
+			}
+		},
+		"Eidolon Teralyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Eidolon/SentientTeralystAgent",
+				"Scans" : 3
+			}
+		},
+		"Eidolon Vomvalyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Eidolon/SentientVomvalystAgent",
+				"Scans" : 5
+			}
+		},
+		"Eradicyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/BardQuest/BardQuestSentientAgent",
+				"Scans" : 5
+			}
+		},
+		"Hunhullus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Monolyst/MonolystAgent",
+				"Scans" : 1
+			}
+		},
+		"Ionyx" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Sentient/Fighters/SpaceFighterSntAssaultAgent",
+				"Scans" : 5
+			}
+		},
+		"Mimic" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Mimics/SentientTrooperMimicAgent",
+				"Scans" : 5
+			}
+		},
+		"Oculyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Scouts/ScoutAvatar",
+				"Scans" : 20
+			}
+		},
+		"Orphix" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Condrix/SentientCondrixAgentMechEvent",
+				"Scans" : 20
+			}
+		},
+		"Ortholyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Ortholyst/SentientOrtholystAgent",
+				"Scans" : 5
+			}
+		},
+		"Ropalolyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Ropalolyst/SentientRopalolystAgent",
+				"Scans" : 3
+			}
+		},
+		"Splintrix" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/SpaceBattles/Sentient/SentientRamSledAgent",
+				"Scans" : 3
+			}
+		},
+		"Symbilyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Symbilyst/SentientSymbilystAgent",
+				"Scans" : 5
+			}
+		},
+		"Typholyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Clotholyst/SentientClotholystAgent",
+				"Scans" : 5
+			}
+		},
+		"Tyro Conculyst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Sentients/Troopers/SentientMeleeTrooperNoPowersAgent",
+				"Scans" : 5
+			}
+		},
+		"Angst" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Acolytes/StrikerAcolyteAgent",
+				"Scans" : 3
+			}
+		},
+		"Malice" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Acolytes/HeavyAcolyteAgent",
+				"Scans" : 3
+			}
+		},
+		"Mania" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Acolytes/RogueAcolyteAgent",
+				"Scans" : 3
+			}
+		},
+		"Misery" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Acolytes/AreaCasterAcolyteAgent",
+				"Scans" : 3
+			}
+		},
+		"Protector Stalker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Stalker/JadeStalkerAgent",
+				"Scans" : 3
+			}
+		},
+		"Shadow Stalker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Stalker/SentientStalkerAgent",
+				"Scans" : 3
+			}
+		},
+		"Stalker" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Stalker/StalkerAgent",
+				"Scans" : 3
+			}
+		},
+		"Torment" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Acolytes/ControlAcolyteAgent",
+				"Scans" : 3
+			}
+		},
+		"Violence" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Acolytes/DuellistAcolyteAgent",
+				"Scans" : 3
+			}
+		},
+		"Archon Amar" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Narmer Bolkor" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Narmer Coildrive" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Narmer/Transports/XXXX",
+				"Scans" : 20
+			}
+		},
+		"Narmer Corpus Tech" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Narmer Crewman" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Narmer/Avatars/NarmerRifleSpacemanAvatar",
+				"Scans" : 20
+			}
+		},
+		"Narmer Deacon" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Narmer/Deacon/NarmerDeaconCombatAvatar",
+				"Scans" : 20
+			}
+		},
+		"Narmer Detron Crewman" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Narmer Disc MOA" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Narmer Firbolg" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Narmer Geminex MOA" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Narmer Glaxion MOA" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Narmer Heavy Gunner" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Narmer Hellion" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Narmer Jailer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Narmer/NarmerGuardSpacemanAgent",
+				"Scans" : 3
+			}
+		},
+		"Narmer Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/Narmer/Avatars/NarmerRifleLancerAvatar",
+				"Scans" : 20
+			}
+		},
+		"Narmer Leech Osprey" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Narmer Militant" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Narmer Napalm" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Narmer Nullifier Crewman" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Narmer Osprey" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 0
+			}
+		},
+		"Narmer Powerfist" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Narmer Power Carrier (Orb Vallis)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Narmer/NarmerSpacemanCarrierAgent",
+				"Scans" : 5
+			}
+		},
+		"Narmer Prod Crewman" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Narmer Raknoid" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Narmer Sapping Osprey" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Corpus/Narmer/PNWNarmerDiscDroneAgent",
+				"Scans" : 5
+			}
+		},
+		"Narmer Scorch" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Narmer Scorpion" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Narmer Shield Lancer" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Narmer Shield Osprey" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Narmer Sniper Crewman" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Narmer Thumper Doma" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Narmer Trooper" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Death Scuttler" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/OraxiaEnemy/OraxiaEnemySpiderlingSuicideAgent",
+				"Scans" : 5
+			}
+		},
+		"Deimos Rogue Bonewidow" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/Thanotech/ThanoTechEnemyAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolisher Bonewidow" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechBonewindow/NecramechBonewidowDisruptionAgent",
+				"Scans" : 3
+			}
+		},
+		"Demolisher Voidrig" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechVoidRig/NecramechVoidRigDisruptionAgent",
+				"Scans" : 3
+			}
+		},
+		"Elementa Arcocanid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechMelee/AlchemyNecramechMeleeAgent",
+				"Scans" : 20
+			}
+		},
+		"Elementa Culverin" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechRanged/AlchemyNecramechRangedAgent",
+				"Scans" : 20
+			}
+		},
+		"Gruzzling" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/TreasureBox/MITWTreasureBoxAgent",
+				"Scans" : 3
+			}
+		},
+		"Hurling Fragment" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/Octopede/Arm/ArmTurret/MITWOctopedeArmTurretAgent",
+				"Scans" : 40
+			}
+		},
+		"Lumbering Fragment" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/Octopede/Leg/BipedalLegs/MITWOctopedeBipedalLegsAgent",
+				"Scans" : 5
+			}
+		},
+		"Mocking Whisper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Entrati/Doppelganger/EntratiDoppelgangerAgent",
+				"Scans" : 1
+			}
+		},
+		"Rogue Arcocanid" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechMelee/NecramechMeleeAgent",
+				"Scans" : 20
+			}
+		},
+		"Rogue Bonewidow" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechBonewindow/NecramechBonewidowAgent",
+				"Scans" : 3
+			}
+		},
+		"Rogue Bonewidow (Descendia)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechBonewindow/CoHNecramechBonewidowAgent",
+				"Scans" : 3
+			}
+		},
+		"Rogue Culverin" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechRanged/NecramechRangedAgent",
+				"Scans" : 20
+			}
+		},
+		"Rogue Voidrig" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechVoidRig/NecramechVoidRigAgent",
+				"Scans" : 3
+			}
+		},
+		"Rogue Voidrig (Descendia)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/NecramechVoidRig/CoHNecramechVoidRigAgent",
+				"Scans" : 3
+			}
+		},
+		"Rogue Voidrig (Deimos)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Orokin/Entrati/EntratiTech/NechroTech/NechroTechEnemyAgent",
+				"Scans" : 3
+			}
+		},
+		"Rupturing Fragment" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/Octopede/Arm/ExplosiveArm/MITWOctopedeExplosiveArmAgent",
+				"Scans" : 40
+			}
+		},
+		"Scathing Whisper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Entrati/Doppelganger/EntratiDoppelgangerRangedAgent",
+				"Scans" : 1
+			}
+		},
+		"Scuttler" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/OraxiaEnemy/OraxiaEnemySpiderlingAgent",
+				"Scans" : 5
+			}
+		},
+		"Shuffling Fragment" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/Octopede/Arm/MITWOctopedeArmAgent",
+				"Scans" : 40
+			}
+		},
+		"The Anatomizer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/HandBomber/HandBomberAgent",
+				"Scans" : 3
+			}
+		},
+		"The Fragmented" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/Octopede/MITWOctopedeAgent",
+				"Scans" : 3
+			}
+		},
+		"The Fragmented One" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/Octopede/MITWOctopedeAgent",
+				"Scans" : 3
+			}
+		},
+		"The Severed Warden" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/Triangle/MITWSupportTriangleAgent",
+				"Scans" : 3
+			}
+		},
+		"The Unseeing Herald" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/Murmur/MITWMurmurAgent",
+				"Scans" : 3
+			}
+		},
+		"Scaldra Jaeger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Lasrian/LasrianRifleLancer/LasrianLancer1999Agent",
+				"Scans" : 20
+			}
+		},
+		"Scaldra Flayer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Lasrian/LasrianButcher/LasrianButcher1999Agent",
+				"Scans" : 20
+			}
+		},
+		"Scaldra Barbican" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Lasrian/LasrianShieldLancer/LasrianShieldLancer1999Agent",
+				"Scans" : 20
+			}
+		},
+		"Scaldra Harbinger" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Lasrian/LasrianDrone/LasrianDroneAgent",
+				"Scans" : 20
+			}
+		},
+		"Scaldra Dedicant" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Lasrian/LasrianChemStrikeNox/LasrianChemStrikeNox1999Agent",
+				"Scans" : 5
+			}
+		},
+		"Scaldra Eradicator" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Lasrian/LasrianGoonadier/LasrianGoonadier1999Agent",
+				"Scans" : 5
+			}
+		},
+		"Scaldra TI-92" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Lasrian/LasrianDropship/LasrianSedanAgent",
+				"Scans" : 3
+			}
+		},
+		"Techrot Babau (Temporal Archimedea Survival)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Infested/InfestedBabau/DeviationInfestedBabau1999Agent",
+				"Scans" : 5
+			}
+		},
+		"Techrot Matmas" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Infested/InfestedUndazoa/InfestedUndazoa1999Agent",
+				"Scans" : 20
+			}
+		},
+		"Techrot Miasmite" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Infested/InfestedMaggot/InfestedMaggot1999Agent",
+				"Scans" : 40
+			}
+		},
+		"Techrot Obsolyte" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Infested/InfestedAncient/InfestedAncient1999Agent",
+				"Scans" : 5
+			}
+		},
+		"Techrot Ramsled" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Infested/InfestedRamSled/InfestedRamSledAgent",
+				"Scans" : 5
+			}
+		},
+		"Techrot Scaart" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Infested/InfestedJugulus/TechrotBoneBladeAgent",
+				"Scans" : 20
+			}
+		},
+		"Techrot Volatile Galliflex" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Infested/InfestedVolatileRunner/InfestedVolatileRunner1999Agent",
+				"Scans" : 40
+			}
+		},
+		"H-09 Apex (Techrot)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/WF1999Lasrian/LasrianTank/LasrianTankHardModeInfestedAgent",
+				"Scans" : 3
+			}
+		},
+		"Anarch Arcus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Dax/TauDaxArcher/AnarchTauDaxArcherAgent",
+				"Scans" : 20
+			}
+		},
+		"Anarch Capsarii" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Dax/TauDaxMedic/AnarchTauDaxMedicAgent",
+				"Scans" : 15
+			}
+		},
+		"Anarch Gladius" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Dax/TauDaxSwordsman/AnarchTauDaxSwordsmanAgent",
+				"Scans" : 20
+			}
+		},
+		"Anarch Grineer Lancer" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Grineer/TauGrineerLancer/AnarchTauGrineerLancerAgent",
+				"Scans" : 20
+			}
+		},
+		"Anarch Grineer Trapper" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Grineer/TauGrineerTrapper/AnarchTauGrineerTrapperAgent",
+				"Scans" : 15
+			}
+		},
+		"Anarch Libritor" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Dax/TauDaxHeavyArch/AnarchTauDaxHeavyArchgunAgent",
+				"Scans" : 5
+			}
+		},
+		"Anarch Tenebra" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Dax/TauDaxNinja/AnarchTauDaxNinjaAgent",
+				"Scans" : 15
+			}
+		},
+		"Commandeered Ash Prime" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Ash/AshPrimeBossAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Ash Prime (Field Boss)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Ash/AshPrimeTMWAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Ash Prime (The Guilty)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Ash/AshPrimeBossHardModeAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Caliban Prime" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Caliban/CalibanPrimeBossAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Caliban Prime (Field Boss)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Caliban/CalibanPrimeTMWAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Caliban Prime (The Guilty)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Caliban/CalibanPrimeBossHardModeAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Ember Prime" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Ember/EmberPrimeBossAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Ember Prime (Field Boss)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Ember/EmberPrimeTMWAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Ember Prime (The Guilty)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Ember/EmberPrimeBossHardModeAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Mesa Prime" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Mesa/MesaPrimeBossAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Mesa Prime (Field Boss)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Mesa/MesaPrimeTMWAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Mesa Prime (The Guilty)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Mesa/MesaPrimeBossHardModeAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Protea Prime" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Protea/ProteaPrimeBossAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Protea Prime (Field Boss)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Protea/ProteaPrimeTMWAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Protea Prime (The Guilty)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Protea/ProteaPrimeBossHardModeAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Trinity Prime" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Trinity/TrinityPrimeBossAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Volt Prime" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Volt/VoltPrimeBossAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Volt Prime (Field Boss)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Volt/VoltPrimeTMWAgent",
+				"Scans" : 1
+			}
+		},
+		"Commandeered Volt Prime (The Guilty)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/Primes/Volt/VoltPrimeBossHardModeAgent",
+				"Scans" : 1
+			}
+		},
+		"Alpine Monitor Sawgaw" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Amethyst Nexifera" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Arbitration Shield Drone" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Ashen Kuaka" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Bau Vasca Kavat" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Black-Banded Bolarola" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Brindle Kubrodon" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Burrowing Cryptilex" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Caustic Cryptilex" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Clem" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 1
+			}
+		},
+		"Coastal Mergoo" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Common Avichaea" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Common Condroc" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Crescent Vulpaphyla" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Dappled Horrasque" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Darvo" : {
+			"General" : {
+				"Scans" : 1
+			}
+		},
+		"Dax Arcus" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Duviri/Dax/DuviriUndercroftDaxRangedAgent",
+				"Scans" : 5
+			}
+		},
+		"Deep Archimedea Void Angel" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Desert Skate" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Devotee" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 1
+			}
+		},
+		"Dusky-Headed Virmink" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Eclipse Thrax Centurion" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Ethereal Void Angel" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Explosive Barrel" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 12
+			}
+		},
+		"Flossy Sawgaw" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Frogmouthed Sawgaw" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Follie" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Shadowgrapher/InkframeCloneEnemyAgent",
+				"Scans" : 5
+			}
+		},
+		"Fuming Dax Stover" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Ghost Kuaka" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Ghoul Expired Deserter" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Green Velocipod" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Hacked Drone" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 10
+			}
+		},
+		"Hollow Thrax Centurion (Duviri)" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Hollow Thrax Centurion (Lua)" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Hollow Thrax Legatus (Duviri)" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Howler Undazoa" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Kavat" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Kubrodon Incarnadine" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Kubrow" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Kullervo (Boss)"  : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Duviri/PaxDuviricus/PaxDuviricusDungeonEncounterAgent",
+				"Scans" : 1
+			}
+		},
+		"Kullervo (Descendia)"  : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/CoH/Bosses/CoHPaxDuviricusDungeonEncounterAgent",
+				"Scans" : 1
+			}
+		},
+		"Kuva Injector" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Liminus" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Necramite" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/RepairDrone/RepairDroneAgent",
+				"Scans" : 20
+			}
+		},
+		"Oraxia" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/OraxiaEnemy/OraxiaEnemyAgent",
+				"Scans" : 1
+			}
+		},
+		"Oraxia (Descendia)" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Tau/CoH/Bosses/CoHOraxiaEnemyAgent",
+				"Scans" : 1
+			}
+		},
+		"Ostia Vasca Kavat" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Panzer Vulpaphyla" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Persecutor Liminus" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Plains Kuaka" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Purple Velocipod" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Ravenous Void Angel" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Rogue Condroc" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Saturn Six Fugitive" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Scarlet Nexifera" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Scuttlers" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/TennoReplicants/OraxiaEnemy/OraxiaEnemySpiderlingAvatar",
+				"Scans" : 5
+			}
+		},
+		"Sentinel Stover" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Septic Cryptilex" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Sly Vulpaphyla" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Splendid Mergoo" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Sporule Avichaea" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Spotted Bolarola" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Storage Container" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Sunny Pobber" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Swimmer Horrasque" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Syzygy Attack Drone" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Syzygy Denial Bursa" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Syzygy Light Trencher" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Syzygy Mite Raknoid" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Syzygy Prod Crewman" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Syzygy Shockwave Moa" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Syzygy Sniper Ranger" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"Thorny Bolarola" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Thrax Centurion" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Thrax Legatus" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Tomb Guardian" : {
+			"General" : {
+				"InternalName" : "/Lotus/Powersuits/Brawler/SummonHostileAgent",
+				"Scans" : 1
+			}
+		},
+		"Tomb Protector" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Quests/SandmanBoss/SandmanBossAgent",
+				"Scans" : 1
+			}
+		},
+		"Tomb Protector Effigy" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Quests/SandmanBoss/InarosGolemAgent",
+				"Scans" : 1
+			}
+		},
+		"Umber Undazoa" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Vallis Kubrodon" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Vaporous Undazoa" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Viridian Nexifera" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Viscid Avichaea" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Vitriol Necramite" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/ManInTheWall/VialCarryDrone/VialDroneAgent",
+				"Scans" : 40
+			}
+		},
+		"Vizier Predasite" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Void Angel" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"White Velocipod" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 5
+			}
+		},
+		"White-Breasted Virmink" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Wolf of Saturn Six" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 3
+			}
+		},
+		"Woodland Mergoo" : {
+			"General" : {
+				"InternalName" : "",
+				"Scans" : 20
+			}
+		},
+		"Wiki Dummy" : {
+			"General" : {
+				"InternalName" : "/Lotus/Types/Enemies/Grineer/AIWeek/MinigunBombard",
+				"Scans" : 3
+			}
+		}
+	}
+}

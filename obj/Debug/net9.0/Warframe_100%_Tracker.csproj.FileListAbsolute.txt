@@ -1,0 +1,14 @@
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0\Warframe_100%_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0\Warframe_100%_Tracker.AssemblyInfoInputs.cache
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0\Warframe_100%_Tracker.AssemblyInfo.cs
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0\Warframe_100%_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\bin\Debug\net9.0\Warframe_100%_Tracker.exe
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\bin\Debug\net9.0\Warframe_100%_Tracker.deps.json
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\bin\Debug\net9.0\Warframe_100%_Tracker.runtimeconfig.json
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\bin\Debug\net9.0\Warframe_100%_Tracker.dll
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\bin\Debug\net9.0\Warframe_100%_Tracker.pdb
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0\Warframe_100%_Tracker.dll
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0\refint\Warframe_100%_Tracker.dll
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0\Warframe_100%_Tracker.pdb
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0\Warframe_100%_Tracker.genruntimeconfig.cache
+C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0\ref\Warframe_100%_Tracker.dll
