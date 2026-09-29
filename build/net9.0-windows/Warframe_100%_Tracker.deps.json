@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Warframe_100%_Tracker/1.0.0": {
+        "runtime": {
+          "Warframe_100%_Tracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Warframe_100%_Tracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

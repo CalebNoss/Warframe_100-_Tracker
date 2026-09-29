@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Warframe_100%_Tracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb2fedaf92370f92acb3e2802cdfc2a66ec22032")]
 [assembly: System.Reflection.AssemblyProductAttribute("Warframe_100%_Tracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Warframe_100%_Tracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

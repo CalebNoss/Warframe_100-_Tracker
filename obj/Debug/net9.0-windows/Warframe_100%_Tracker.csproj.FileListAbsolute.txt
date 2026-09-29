@@ -14,3 +14,4 @@ C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0-windows\Warfr
 C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0-windows\ref\Warframe_100%_Tracker.dll
 C:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0-windows\Warframe_100%_Tracker.csproj.GenerateResource.cache
 c:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0-windows\inputForm.resources
+c:\Users\Caleb\source\repos\Warframe_100%_Tracker\obj\Debug\net9.0-windows\Warframe_100%_Tracker.sourcelink.json

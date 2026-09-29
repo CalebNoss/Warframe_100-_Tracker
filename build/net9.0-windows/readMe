@@ -17,5 +17,5 @@ The exact steps upon opening the page (and being logged in!) are as follows:
 6A. A cookie named 'gid' has your exact user id in the 'value' field
 6B. A cookie named 'user-info' has your exact user id under the key 'user_id' which is in the 'value' field
 
-7. Run the exe under /build/net9.0-windows
+7. Run WarframeUserDataViewer.cs
 8. Enter your user id in the text box and press the button!
